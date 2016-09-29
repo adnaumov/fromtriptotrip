@@ -236,21 +236,18 @@ Link: [i18next](http://i18next.github.io/i18next/)
 
 ### Web analytics
 
-I use [Baidu analytics](http://tongji.baidu.com/web/welcome/login) and [Google analytics](https://www.google.com/analytics/) to do web analytics, you can choose either to realize it,just register a account and replace id in `_config.yml`.
+I use [Google analytics](https://www.google.com/analytics/) to do web analytics, you can choose either to realize it,just register a account and replace id in `_config.yml`.
 
 ### Comment
 
-I use [Changyan](http://changyan.kuaizhan.com/) and [Disqus](https://disqus.com/) to realize comment.
-
-#### Changyan
-To configure Changyan, get the appid and conf in <http://changyan.kuaizhan.com/>. Then, in `_config.yml`, edit the changyan value to enable Changyan.
+I use [Disqus](https://disqus.com/) to realize comment.
 
 #### Disqus
 To configure Disqus,you should set disqus_shortname and get public key and then, in `_config.yml`, edit the disqus value to enable Disqus.
 
 ### Share
 
-I use [bshare](http://www.bshare.cn/) to share my blog on other social network platform. You can register a count and get your share uuid.
+I use [addthis](http://www.addthis.com/) to share my blog on other social network platform. You can register a count and get your share uuid.
 
 ### Search engines
 
