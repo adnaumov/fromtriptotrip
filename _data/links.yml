@@ -1,5 +1,11 @@
 - last_name: Andrey
   first_name: Naumov
   desc: 'Information Security Specialist & Postgraduate Student | Senior Software Developer | Saint Petersburg, Russia'
-  website: 'https://www.linkedin.com/in/adnaumov'
+  website: 'https://vk.com/adnaumov'
   email: 'mailto.anaumov@gmail.com'
+
+- last_name: Alena
+  first_name: Naumova
+  desc: 'Internship doctor (Obstetrics, Gynaecology and Reproductive Medicine) | Saint Petersburg, Russia'
+  website: 'https://vk.com/id45359354'
+  email: 'naumova-kost@mail.ru'
