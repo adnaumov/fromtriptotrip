@@ -1,6 +1,6 @@
 - name: 'ASUSE'
   i18n: 'asuse'
-  url: '/Jack614/saplatform'
+  url: 'https://www.infoenergo.ru/products/asuse/'
   img: 'static/img/landing/asuse.png'
   desc: 'Automated control system for energy sale (%).'
 
