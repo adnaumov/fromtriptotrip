@@ -7,7 +7,7 @@
 - name: PL/SQL
   percentage: 80
 
-- name: ADO.NET/C#
+- name: C#/ADO.NET
   percentage: 75
 
 - name: HTML/CSS
