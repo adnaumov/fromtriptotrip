@@ -1,33 +1,33 @@
 {
   "website":{
-    "title": "杰克的博客"
+    "title": "Andrey's blog"
   },
   "nav":{
-    "home": "首页",
-    "about_me": "关于我",
-    "skills": "技能",
-    "projects": "项目",
-    "career": "职业",
-    "blog": "博客",
-    "link": "友情链接"
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Link"
   },
   "about_me":{
-    "about_me": "关于我",
-    "des": "我是一名Python工程师，有开发网站，运维自动化，编写脚本的经验。人生是不断学习的过程，工作使我变的更严谨，旅行让我的生活更加多彩。通过编程和旅行我能结识到很多朋友。"
+    "about_me": "About Me",
+    "des": "I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
   },
   "skills":{
-    "my_skills": "我的技能"
+    "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "我的项目",
-    "saplatform": "Saplatform是一个自动化运维服务，包括资产管理、项目发布、数据库管理等功能,它可以管理大量服务器。",
-    "jalpc": "Jalpc是一个非常简洁、漂亮和快速部署的Jekyll主题，它有非常全面的功能，可以很方便的修改和使用，适应多种设备。",
-    "angularjs": "这是一个Angularjs写的前端应用，使用Jelyll部署在github的gh-pages上，后台使用Leancloud，你也可以使用Parse。",
-    "rsser": "Rsser是一个Ionic应用，在这个应用下，我们可以自由的阅读新闻和文章，你可以从给定的列表中添加rss地址也可以手动添加。"
+    "my_projects": "My Projects",
+    "saplatform": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
+    "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
+    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
+    "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
   },
   "career":{
     "my_career": "My Career",
-    "postgraduate": "Университет ИТМО",
+    "postgraduate": "University",
     "postgraduate_des": "The title of dissertation is "Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them".",
     "postgraduate_date": "2015-2019",
     "postgraduate_job": "Postgraduate Student | Information Security",
@@ -35,20 +35,20 @@
     "infoenergo_des": "Developing and maintaining Oracle based .Net applications, including both back-end and front-end parts. Tools and technologies - Oracle PL/SQL, ADO.NET, C#, XML, Java.",
     "infoenergo_date": "December 2012 - Present",
     "infoenergo_job": "Senior Software Developer | Saint Petersburg, Russian Federation",
-    "specialist": "Университет ИТМО",
+    "specialist": "ITMO University",
     "specialist_des": "The title of dissertation is "Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them".",
     "specialist_date": "2010-2015",
     "specialist_job": "Specialist | Information Security",
-    "school": "Некоммерческое акционерное общество "Республиканская физико-математическая школа", Алматы, Казахстан",
-    "school_des": "Участник и призер школьных олимпиад по математике, физике и информатике (перечень олимпиад, утвержденный Российским советом олимпиад школьников).",
+    "school": "Non-profit joint-stock company "Republican physics and mathematics school", Almaty, Kazakhstan",
+    "school_des": "School olympiads participant and winner in mathematics, physics and computer science (list of olympiads approved by the Russian council of school olympiads).",
     "school_date": "2006-2010",
-    "school_job": "Выпускник школы | Физико-математическое направление | 5.0/5.0"
+    "school_job": "School graduate | Physico-mathematical direction | 5.0/5.0"
   },
   "blog":{
-    "my_blog": "我的博客"
+    "my_blog": "My Blog"
   },
   "link":{
-    "link": "友情链接"
+    "link": "Link"
   }
 
 }
