@@ -10,7 +10,7 @@
   job:
     detail: Postgraduate Student | Information Security
     i18n: postgraduate_job
-  icon: fa-plus-square
+  icon: fa-cloud
 
 - name:
     detail: ALPHA-INTEGRATOR-INFOENERGO Co.Ltd.
@@ -24,7 +24,7 @@
   job:
     detail: Senior Software Developer | Saint Petersburg, Russian Federation
     i18n: infoenergo_job
-  icon: fa-gamepad
+  icon: fa-plus-square
 
 - name:
     detail: ITMO University
@@ -38,7 +38,7 @@
   job:
     detail: Specialist | Information Security
     i18n: specialist_job
-  icon: fa-cloud
+  icon: fa-book
 
 - name:
     detail: Non-profit joint-stock company "Republican physics and mathematics school", Almaty, Kazakhstan
