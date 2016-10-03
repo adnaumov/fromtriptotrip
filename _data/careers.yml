@@ -1,55 +1,55 @@
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: ITMO University
+    i18n: postgraduate
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: The title of dissertation is "Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them".
+    i18n: postgraduate_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: 2015-2019
+    i18n: postgraduate_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
+    detail: Postgraduate Student | Information Security
+    i18n: postgraduate_job
   icon: fa-plus-square
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: ALPHA-INTEGRATOR-INFOENERGO Co.Ltd.
+    i18n: infoenergo
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: Developing and maintaining Oracle based .Net applications, including both back-end and front-end parts. Tools and technologies: Oracle PL/SQL, ADO.NET, C#, XML, Java.
+    i18n: infoenergo_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: December 2012 - Present
+    i18n: infoenergo_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
+    detail: Senior Software Developer | Saint Petersburg, Russian Federation
+    i18n: infoenergo_job
   icon: fa-gamepad
 
 - name:
-    detail: Ucloud
-    i18n: ucloud
+    detail: ITMO University
+    i18n: specialist
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    detail: 
+    i18n: specialist_des
   date:
-    detail: Sep. 2013
-    i18n: ucloud_date
+    detail: 2010-2015
+    i18n: specialist_date
   job:
-    detail: Dev Ops
-    i18n: ucloud_job
+    detail: Specialist | Information Security
+    i18n: specialist_job
   icon: fa-cloud
 
 - name:
     detail: Republican Specialized Physics-Mathematics Secondary Boarding School (Almaty, Kazakhstan)
-    i18n: college
+    i18n: school
   desc:
     detail: School Olympiads Participant and Winner in Mathematics, Physics and Computer Science (List of Olympiads approved by the Russian Council of School Olympiads).
-    i18n: college_des
+    i18n: school_des
   date:
     detail: 2006-2010
-    i18n: college_date
+    i18n: school_date
   job:
     detail: School Graduate | Physics-Mathematics | 5.0/5.0
-    i18n: college_job
+    i18n: school_job
   icon: fa-book
