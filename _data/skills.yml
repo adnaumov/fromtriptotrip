@@ -1,14 +1,29 @@
-- name: Information security & Personal data protection
+- name: Information security
   percentage: 90
 
-- name: Cloud computing & Virtualization
+- name: Personal data protection
+  percentage: 90
+
+- name: Cloud computing
   percentage: 70
 
-- name: Oracle Database & PL/SQL
+- name: Virtualization
+  percentage: 70
+
+- name: Oracle Database
   percentage: 80
 
-- name: ADO.NET & C#
+- name: PL/SQL
+  percentage: 80
+
+- name: ADO.NET
   percentage: 75
 
-- name: HTML/CSS & JavaScript
+- name: C#
+  percentage: 75
+
+- name: HTML/CSS
+  percentage: 65
+
+- name: JavaScript
   percentage: 65
