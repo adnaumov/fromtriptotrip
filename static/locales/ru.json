@@ -27,7 +27,7 @@
   },
   "career":{
     "my_career": "My Career",
-    "postgraduate": "ITMO University",
+    "postgraduate": "Университет ИТМО",
     "postgraduate_des": "The title of dissertation is "Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them".",
     "postgraduate_date": "2015-2019",
     "postgraduate_job": "Postgraduate Student | Information Security",
@@ -35,7 +35,7 @@
     "infoenergo_des": "Developing and maintaining Oracle based .Net applications, including both back-end and front-end parts. Tools and technologies - Oracle PL/SQL, ADO.NET, C#, XML, Java.",
     "infoenergo_date": "December 2012 - Present",
     "infoenergo_job": "Senior Software Developer | Saint Petersburg, Russian Federation",
-    "specialist": "ITMO University",
+    "specialist": "Университет ИТМО",
     "specialist_des": "The title of dissertation is "Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them".",
     "specialist_date": "2010-2015",
     "specialist_job": "Specialist | Information Security",
