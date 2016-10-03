@@ -2,7 +2,7 @@
     detail: ITMO University
     i18n: postgraduate
   desc:
-    detail: The title of dissertation is "Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them".
+    detail: The title of dissertation is Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them.
     i18n: postgraduate_des
   date:
     detail: 2015-2019
@@ -30,7 +30,7 @@
     detail: ITMO University
     i18n: specialist
   desc:
-    detail: The title of dissertation is "Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them".
+    detail: The title of dissertation is Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them.
     i18n: specialist_des
   date:
     detail: 2010-2015
@@ -41,7 +41,7 @@
   icon: fa-book
 
 - name:
-    detail: Non-profit joint-stock company "Republican physics and mathematics school", Almaty, Kazakhstan
+    detail: Non-profit joint-stock company Republican physics and mathematics school | Almaty, Kazakhstan
     i18n: school
   desc:
     detail: School olympiads participant and winner in mathematics, physics and computer science (list of olympiads approved by the Russian council of school olympiads).
