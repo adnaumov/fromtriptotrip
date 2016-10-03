@@ -2,7 +2,7 @@
   i18n: 'asuse'
   url: '/adnaumov/asuse/'
   img: 'static/img/landing/asuse.png'
-  desc: 'Automated control system for energy sale (https://www.infoenergo.ru/products/asuse/).'
+  desc: 'Automated control system for energy sale https://www.infoenergo.ru/products/asuse/.'
 
 - name: 'fromtriptotrip'
   i18n: 'fromtriptotrip'
