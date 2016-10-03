@@ -19,10 +19,10 @@
     detail: Developing and maintaining Oracle based .Net applications, including both back-end and front-end parts. Tools and technologies - Oracle PL/SQL, ADO.NET, C#, XML, Java.
     i18n: infoenergo_des
   date:
-    detail: December 2012 - Present
+    detail: December 2012 - present
     i18n: infoenergo_date
   job:
-    detail: Senior Software Developer | Saint Petersburg, Russian Federation
+    detail: Senior software developer of billing department | Saint Petersburg, Russian Federation
     i18n: infoenergo_job
   icon: fa-plus-square
 
