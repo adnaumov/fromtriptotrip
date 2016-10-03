@@ -13,7 +13,7 @@ author:
   first_name: 'Andrey'
   last_name: 'Naumov'
   email: 'mailto.anaumov@gmail.com'
-  facebook_username: 'adnaumov'
+  linkedin_username: 'adnaumov'
   github_username: 'adnaumov'
   head_img: 'static/img/landing/adnaumov.jpg'
   desc: 'Information security specialist & Postgraduate student | Senior software developer | Saint Petersburg, Russia'
