@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "My first travel blog"
+title:  "Мой первый пост"
 date:   2016-10-01
-desc: "My first travel blog"
+desc: "Мой первый пост"
 keywords: "travel"
 categories: [Travel]
 tags: [travel]
-icon: fa-linux
+icon: fa-plane
 ---
 
-My first travel blog
+Мой первый пост
 
 ```
-My first travel blog
+Мой первый пост
 ```
