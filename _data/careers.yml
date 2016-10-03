@@ -41,15 +41,15 @@
   icon: fa-cloud
 
 - name:
-    detail: Graduation
+    detail: Republican Specialized Physics-Mathematics Secondary Boarding School (Almaty, Kazakhstan)
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: School Olympiads Participant and Winner in Mathematics, Physics and Computer Science (List of Olympiads approved by the Russian Council of School Olympiads).
     i18n: college_des
   date:
-    detail: Jul. 2013
+    detail: 2006-2010
     i18n: college_date
   job:
-    detail: Student
+    detail: School Graduate | Physics-Mathematics | 5.0/5.0
     i18n: college_job
   icon: fa-book

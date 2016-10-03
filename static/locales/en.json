@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Andrey's blog"
   },
   "nav":{
     "home": "Home",
@@ -39,10 +39,11 @@
     "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
     "ucloud_date": "Sep. 2013",
     "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
+
+    "college": "Republican Specialized Physics-Mathematics Secondary Boarding School (Almaty, Kazakhstan)",
+    "college_des": "School Olympiads Participant and Winner in Mathematics, Physics and Computer Science (List of Olympiads approved by the Russian Council of School Olympiads).",
+    "college_date": "2006-2010",
+    "college_job": "School Graduate | Physics-Mathematics | 5.0/5.0"
   },
   "blog":{
     "my_blog": "My Blog"
