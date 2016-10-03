@@ -30,7 +30,7 @@
     detail: ITMO University
     i18n: specialist
   desc:
-    detail: 
+    detail: The title of dissertation is "Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them".
     i18n: specialist_des
   date:
     detail: 2010-2015
