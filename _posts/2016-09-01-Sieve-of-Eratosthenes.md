@@ -1,4 +1,4 @@
----
+п»ї---
 layout: post
 title:  "Sieve of Eratosthenes"
 date:   2016-09-01
@@ -31,62 +31,62 @@ icon: fa-plane
 	<script>
 		function sieve(n, k) {
 
-			// шаг 1
+			// step 1
 			var arr1 = [];
 
 			for (var i = 2; i < n + 1; i++) {
 				arr1[i] = true
 			}
 
-			// шаг 2
+			// step 2
 			var p = 2;
 
 			do {
-				// шаг 3
+				// step 3
 				for (i = 2 * p; i < n + 1; i += p) {
 					arr1[i] = false;
 				}
 
-				// шаг 4
+				// step 4
 				for (i = p + 1; i < n + 1; i++) {
 					if (arr1[i]) break;
 				}
 
 				p = i;
-			} while (p * p < n + 1); // шаг 5
+			} while (p * p < n + 1); // step 5
 
-			// шаг 6            
+			// step 6            
 			for (i = 0; i < arr1.length; i++) {
 				if (arr1[i]) {
 					prime1.push(i);
 				}
 			}
 
-			// шаг 1
+			// step 1
 			var arr2 = [];
 
 			for (var i = 2; i < k * n + 1; i++) {
 				arr2[i] = true
 			}
 
-			// шаг 2
+			// step 2
 			var p = 2;
 
 			do {
-				// шаг 3
+				// step 3
 				for (i = 2 * p; i < k * n + 1; i += p) {
 					arr2[i] = false;
 				}
 
-				// шаг 4
+				// step 4
 				for (i = p + 1; i < k * n + 1; i++) {
 					if (arr2[i]) break;
 				}
 
 				p = i;
-			} while (p * p < k * n + 1); // шаг 5
+			} while (p * p < k * n + 1); // step 5
 
-			// шаг 6            
+			// step 6            
 			for (i = 0; i < arr2.length; i++) {
 				if (arr2[i]) {
 					prime2.push(i);
@@ -140,13 +140,13 @@ icon: fa-plane
     <table class="table table-striped table-bordered table-hover">
         <thead>
             <tr>
-                <th>№ п.п.</th>
+                <th>в„– Рї.Рї.</th>
                 <th>K</th>
                 <th>Pn</th>
                 <th>Pn+1</th>
                 <th>KPn</th>
                 <th>KPn+1</th>
-                <th>Простые числа в диапазоне от KРn до KРn+1</th>
+                <th>РџСЂРѕСЃС‚С‹Рµ С‡РёСЃР»Р° РІ РґРёР°РїР°Р·РѕРЅРµ РѕС‚ KPn РґРѕ KPn+1</th>
             </tr>
         </thead>
         <tbody id="TableBody">
@@ -158,7 +158,7 @@ icon: fa-plane
         var prime1 = [];
         var prime2 = [];
         var checkList = [];
-        sieve(+prompt('Введите max(Рn+1)', '100'), +prompt('Введите коэффициент K', '2'));
+        sieve(+prompt('Р’РІРµРґРёС‚Рµ max(Pn+1)', '100'), +prompt('Р’РІРµРґРёС‚Рµ РєРѕСЌС„С„РёС†РёРµРЅС‚ K', '2'));
     </script>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
