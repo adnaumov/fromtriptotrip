@@ -8,9 +8,7 @@ categories: [Travel]
 tags: [travel]
 icon: fa-plane
 ---
-
-<script async src="//www.travelpayouts.com/ducklett/scripts.js?widget_type=brickwork&currency=rub&width=800&host=hydra.aviasales.ru&marker=73852.&limit=9" charset="UTF-8"></script>
-
+<script async src="//www.travelpayouts.com/ducklett/scripts.js?widget_type=slider&currency=rub&host=hydra.aviasales.ru&marker=73852.&limit=9" charset="UTF-8"></script>
 ```
-My first post
+<script async src="//www.travelpayouts.com/ducklett/scripts.js?widget_type=slider&currency=rub&host=hydra.aviasales.ru&marker=73852.&limit=9" charset="UTF-8"></script>
 ```
