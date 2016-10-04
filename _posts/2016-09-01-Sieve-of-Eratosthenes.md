@@ -9,8 +9,8 @@ tags: [education]
 icon: fa-plane
 ---
 
-My first post
+Простые числа
 
 ```
-My first post
+Простые числа
 ```
