@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  "Sieve of Eratosthenes"
+title: "Sieve of Eratosthenes"
 date:   2016-10-01
 desc: "Sieve of Eratosthenes"
 keywords: "education"

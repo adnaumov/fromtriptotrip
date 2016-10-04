@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first post"
+title: "My first post"
 date:   2016-10-01
 desc: "My first post"
 keywords: "travel"
