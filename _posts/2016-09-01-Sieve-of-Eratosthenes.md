@@ -8,7 +8,7 @@ categories: [Education]
 tags: [education]
 icon: fa-plane
 ---
-/_posts/prime.html
+
 ```
 <!DOCTYPE html>
 <html lang="en">
