@@ -8,7 +8,7 @@ categories: [Education]
 tags: [education]
 icon: fa-plane
 ---
-(https://github.com/adnaumov/fromtriptotrip/_posts/prime.html)
+
 ```
 <!DOCTYPE html>
 <html lang="en">
