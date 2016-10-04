@@ -98,8 +98,8 @@ icon: fa-plane
         }
     </script>
 
- <script>
-     function check(k) {
+    <script>
+    function check(k) {
 
          for (var i = 0; i < prime1.length - 1 ; i++) {
              checkList[i] = '';
