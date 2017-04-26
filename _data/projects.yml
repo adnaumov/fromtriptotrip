@@ -1,5 +1,5 @@
 - name: 'TEDxITMOUniversity'
   i18n: 'TEDxITMOUniversity'
   url: '/TEDxITMOUniversity/TEDxITMOUniversity.github.io'
-  img: 'static/img/landing/tedxitmouniversity.png'
+  img: 'static/img/landing/png512x512lite.png'
   desc: "TEDx ITMO University Conference on Dec 15, 2017 in Saint Petersburg, Russian Federation at ITMO University | https://tedxitmouniversity.github.io/"
