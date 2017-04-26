@@ -1,17 +1,5 @@
-- name: 'asuse'
-  i18n: 'asuse'
-  url: 'http://www.infoenergo.ru/products/asuse/'
-  img: 'static/img/landing/asuse.png'
-  desc: 'Automated control system for energy sale | http://www.infoenergo.ru/products/asuse/'
-  
-- name: 'investpro'
-  i18n: 'investpro'
-  url: 'http://www.infoenergo.ru/products/isuip/'
-  img: 'static/img/landing/asuse.png'
-  desc: 'Information system of investment project management | http://www.infoenergo.ru/products/isuip/'  
-
 - name: 'TEDxITMOUniversity'
   i18n: 'TEDxITMOUniversity'
   url: '/TEDxITMOUniversity/TEDxITMOUniversity.github.io'
   img: 'static/img/landing/png512x512lite.png'
-  desc: "TEDx conference in ITMO University | https://tedxitmouniversity.github.io/"
+  desc: "TEDx ITMO University Conference on Dec 15, 2017 in Saint Petersburg, Russian Federation at ITMO University | https://tedxitmouniversity.github.io/"
