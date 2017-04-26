@@ -1,11 +1,17 @@
-- name: 'ASUSE'
+- name: 'asuse'
   i18n: 'asuse'
-  url: '/adnaumov/asuse/'
+  url: 'http://www.infoenergo.ru/products/asuse/'
   img: 'static/img/landing/asuse.png'
-  desc: 'Automated control system for energy sale | https://www.infoenergo.ru/products/asuse/.'
+  desc: 'Automated control system for energy sale | http://www.infoenergo.ru/products/asuse/'
+  
+- name: 'investpro'
+  i18n: 'investpro'
+  url: 'http://www.infoenergo.ru/products/isuip/'
+  img: 'static/img/landing/asuse.png'
+  desc: 'Information system of investment project management | http://www.infoenergo.ru/products/isuip/'  
 
-- name: 'fromtriptotrip'
-  i18n: 'fromtriptotrip'
-  url: '/adnaumov/fromtriptotrip'
+- name: 'TEDxITMOUniversity'
+  i18n: 'TEDxITMOUniversity'
+  url: '/TEDxITMOUniversity/TEDxITMOUniversity.github.io'
   img: 'static/img/landing/png512x512lite.png'
-  desc: "Simple, beautiful and swift theme for Jekyll."
+  desc: "TEDx conference in ITMO University | https://tedxitmouniversity.github.io/"
