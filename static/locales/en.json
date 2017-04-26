@@ -13,15 +13,15 @@
   },
   "about_me":{
     "about_me": "About me",
-    "des": "Information security specialist & Postgraduate student | Senior software developer | Saint Petersburg, Russia."
+    "des": "Information security specialist & Postgraduate student | Senior software developer | Saint Petersburg, Russia"
   },
   "skills":{
     "my_skills": "My skills"
   },
   "projects":{
     "my_projects": "My projects",
-    "asuse": "Automated control system for energy sale | https://www.infoenergo.ru/products/asuse/.",
-    "fromtriptotrip": "Simple, beautiful and swift theme for Jekyll."
+    "asuse": "Automated control system for energy sale | https://www.infoenergo.ru/products/asuse/",
+    "fromtriptotrip": "Simple, beautiful and swift theme for Jekyll"
   },
   "career":{
     "my_career": "My career",
