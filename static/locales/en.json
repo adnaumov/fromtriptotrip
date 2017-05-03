@@ -20,10 +20,14 @@
   },
   "projects":{
     "my_projects": "My projects",
-    "TEDxITMOUniversity": "TEDx ITMO University Conference on Dec 15, 2017 in Saint Petersburg, Russia at ITMO University | https://tedxitmouniversity.github.io/"
+    "TEDxITMOUniversity": "TEDx ITMO University Conference on Dec 1, 2017 in Saint Petersburg, Russia at ITMO University | https://tedxitmouniversity.github.io/"
   },
   "career":{
     "my_career": "My career",
+    "engineer": "ITMO University",
+    "engineer_des": "Engineer of the Department of Design and Safety of Computer Systems.",
+    "engineer_date": "November 2016 - present",
+    "engineer_job": "Engineer | Saint Petersburg, Russian Federation",    
     "postgraduate": "ITMO University",
     "postgraduate_des": "The title of dissertation is Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them.",
     "postgraduate_date": "2015-2019",
