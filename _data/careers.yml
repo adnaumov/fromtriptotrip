@@ -1,5 +1,19 @@
 - name:
     detail: ITMO University
+    i18n: engineer
+  desc:
+    detail: Engineer of the Department of Design and Safety of Computer Systems.
+    i18n: engineer_des
+  date:
+    detail: November 2016 - present
+    i18n: engineer_date
+  job:
+    detail: Engineer | Saint Petersburg, Russian Federation
+    i18n: engineer_job
+  icon: fa-plus-square
+
+- name:
+    detail: ITMO University
     i18n: postgraduate
   desc:
     detail: The title of dissertation is Virtualization environment protection by excluding unauthorized access to the components of the virtual infrastructure and by acting on them.
